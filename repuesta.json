@@ -1,0 +1,18 @@
+{
+    "at_hash": "to9os_aGGo0i-Y0AsI_duA",
+    "aud": "315011227868-4jat93foigqqskm3l036jkm434vrvl2e.apps.googleusercontent.com",
+    "azp": "315011227868-4jat93foigqqskm3l036jkm434vrvl2e.apps.googleusercontent.com",
+    "email": "enrique.nunez@unu.cl",
+    "email_verified": true,
+    "exp": 1592755738,
+    "family_name": "Nu\u00f1ez",
+    "given_name": "Enrique",
+    "hd": "unu.cl",
+    "iat": 1592752138,
+    "iss": "https://accounts.google.com",
+    "locale": "es",
+    "name": "Enrique Nu\u00f1ez",
+    "nonce": "vD14ehqBtNPDxw6AZLNK",
+    "picture": "https://lh3.googleusercontent.com/a-/AOh14GhGEXz2iL_P5FT7OVdV2gOb561TVYSnVLinPjL3=s96-c",
+    "sub": "114601668757046067559"
+}
